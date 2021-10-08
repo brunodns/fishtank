@@ -1,5 +1,5 @@
 const GET_FISH_TOKEN = "ZWgsFJJiQnJPdZXnKorQZ8/yE0kxc5P1THHGQmR7oQoNCUmLqnchvOC8CDbJvval/h+Ahsr+OSw="
-const CLAIM_TOKEN = "ZWgsFJJiQnJPdZXnKoqEYJnxFkpkcLSnTXWbEGFY/VkLDTjcqXVx6rPLDDXGwo3wqG6Eh7j+OX1vkmjg+6G9kaWj/dFSGtxL+nvw8SoaF0k0PCDOtU+njw8FNCA="
+const CLAIM_TOKEN = "ZWgsFJJiQnJPdZXnKorQZ8/yE0kxc5P1THHGQmR7oQoNCUmLqnchvOC8CDbJvval/h+Ahsr+OX1vkmjg+6G9kaWj/dFRSdBKoH34oysfRklhb3Kc4x+g21pRNCA="
 const FEED_TOKEN= "ZWgsFJJiQnJPdZXnKorQZ8/yE0kxc5P1THHGQmR7oQoNCUmLqnchvOC8CDbJvval/h+Ahsr+OX1vkmjg+6G9kaWj/dFRSdBKoH34oysfRklhb3Kc4x+g21pRNHFxuiTHGkJP8kjMEsY=";
 
 const axios = require('axios')
